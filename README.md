@@ -1,10 +1,10 @@
 # VIDEO-RECORDING
 I have just found out the logic behind how the video's are recorded.
 
-Libraries required:
+# Libraries required:
 cv2 ||
 numpy
 
-Prerequisites:
+# Prerequisites:
 You should know basics of Cv2(Opencv). ||
 Python Programming.
